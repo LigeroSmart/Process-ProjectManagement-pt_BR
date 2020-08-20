@@ -1,0 +1,1049 @@
+---
+Activities:
+  Activity-0c9b99417a16409a114f40ccd39cfb04:
+    ActivityDialogs:
+    - ActivityDialog-916fee8efd3134130924fc0550a791ec
+    ChangeTime: 2019-01-20 20:17:54
+    Config:
+      ActivityDialog:
+        '1': ActivityDialog-916fee8efd3134130924fc0550a791ec
+    CreateTime: 2019-01-20 20:17:54
+    EntityID: Activity-0c9b99417a16409a114f40ccd39cfb04
+    ID: '30'
+    Name: Proj - Verificar Impedimento Comercial
+  Activity-2e3104959e38f6cbe8bb7352bcabd6f6:
+    ActivityDialogs:
+    - ActivityDialog-594cb71dc38a25cdf11174db89ad9510
+    ChangeTime: 2019-01-20 20:17:04
+    Config:
+      ActivityDialog:
+        '1': ActivityDialog-594cb71dc38a25cdf11174db89ad9510
+    CreateTime: 2019-01-20 20:06:35
+    EntityID: Activity-2e3104959e38f6cbe8bb7352bcabd6f6
+    ID: '29'
+    Name: Proj - Verificar Impedimento Administrativo
+  Activity-302e3063dd2aa94e821ed16060fcf48a:
+    ActivityDialogs:
+    - ActivityDialog-d48051ba791da43392bad0f9f1f34f38
+    ChangeTime: 2019-01-20 18:05:23
+    Config:
+      ActivityDialog:
+        '1': ActivityDialog-d48051ba791da43392bad0f9f1f34f38
+    CreateTime: 2019-01-20 18:02:40
+    EntityID: Activity-302e3063dd2aa94e821ed16060fcf48a
+    ID: '26'
+    Name: Proj - Criar novo projeto
+  Activity-4e20c0fce619989894fd4323f7448844:
+    ActivityDialogs:
+    - ActivityDialog-ad07adda76ecc7c52ea3f629d0926019
+    ChangeTime: 2019-01-20 19:46:30
+    Config:
+      ActivityDialog:
+        '1': ActivityDialog-ad07adda76ecc7c52ea3f629d0926019
+    CreateTime: 2019-01-20 19:28:20
+    EntityID: Activity-4e20c0fce619989894fd4323f7448844
+    ID: '27'
+    Name: Proj - Agendar Kickoff
+  Activity-5bbeec1bd78f08736b28db507f507136:
+    ActivityDialogs:
+    - ActivityDialog-a3570d4ef911e963f5c0fe73944ba660
+    - ActivityDialog-f0578f1f8d860d0106cf3e7336ee837b
+    - ActivityDialog-49255540415110fd36f574e54bb27c5e
+    ChangeTime: 2019-01-20 21:59:41
+    Config:
+      ActivityDialog:
+        '1': ActivityDialog-a3570d4ef911e963f5c0fe73944ba660
+        '2': ActivityDialog-f0578f1f8d860d0106cf3e7336ee837b
+        '3': ActivityDialog-49255540415110fd36f574e54bb27c5e
+    CreateTime: 2019-01-20 21:00:16
+    EntityID: Activity-5bbeec1bd78f08736b28db507f507136
+    ID: '34'
+    Name: Proj - Tarefas Encerradas
+  Activity-b8a8c9e65106ba43742fe8154d5d3c2b:
+    ActivityDialogs:
+    - ActivityDialog-ecbe47e26fa7caa690c2ca09356b1f4c
+    - ActivityDialog-02fcb8f8006ce62ea02db531447b34e5
+    ChangeTime: 2019-01-20 20:00:06
+    Config:
+      ActivityDialog:
+        '1': ActivityDialog-ecbe47e26fa7caa690c2ca09356b1f4c
+        '2': ActivityDialog-02fcb8f8006ce62ea02db531447b34e5
+    CreateTime: 2019-01-20 19:50:35
+    EntityID: Activity-b8a8c9e65106ba43742fe8154d5d3c2b
+    ID: '28'
+    Name: Proj - Registrar Kickoff
+  Activity-ceff77e232cddbe6cc514948ca9acb31:
+    ActivityDialogs:
+    - ActivityDialog-a2719869a6a1a80ef73128dca3d4b7ac
+    - ActivityDialog-49255540415110fd36f574e54bb27c5e
+    ChangeTime: 2019-01-20 22:00:17
+    Config:
+      ActivityDialog:
+        '1': ActivityDialog-a2719869a6a1a80ef73128dca3d4b7ac
+        '2': ActivityDialog-49255540415110fd36f574e54bb27c5e
+    CreateTime: 2019-01-20 20:27:33
+    EntityID: Activity-ceff77e232cddbe6cc514948ca9acb31
+    ID: '31'
+    Name: Proj - Criar Cronograma
+  Activity-d3c13b1968ace162683f79ca78afb4d5:
+    ActivityDialogs:
+    - ActivityDialog-a3570d4ef911e963f5c0fe73944ba660
+    - ActivityDialog-49255540415110fd36f574e54bb27c5e
+    ChangeTime: 2019-01-20 21:59:56
+    Config:
+      ActivityDialog:
+        '1': ActivityDialog-a3570d4ef911e963f5c0fe73944ba660
+        '2': ActivityDialog-49255540415110fd36f574e54bb27c5e
+    CreateTime: 2019-01-20 20:36:26
+    EntityID: Activity-d3c13b1968ace162683f79ca78afb4d5
+    ID: '32'
+    Name: Proj - Execução do Projeto
+  Activity-e619638deb537ea1488bc7dd4951429b:
+    ActivityDialogs: []
+    ChangeTime: 2019-01-20 22:01:24
+    Config: {}
+    CreateTime: 2019-01-20 22:01:24
+    EntityID: Activity-e619638deb537ea1488bc7dd4951429b
+    ID: '35'
+    Name: Proj - Encerrado
+  Activity-f78bdfaf3bf61228ebb68f9b3db79f18:
+    ActivityDialogs:
+    - ActivityDialog-a3570d4ef911e963f5c0fe73944ba660
+    - ActivityDialog-49255540415110fd36f574e54bb27c5e
+    ChangeTime: 2019-01-20 21:59:59
+    Config:
+      ActivityDialog:
+        '1': ActivityDialog-a3570d4ef911e963f5c0fe73944ba660
+        '2': ActivityDialog-49255540415110fd36f574e54bb27c5e
+    CreateTime: 2019-01-20 20:48:00
+    EntityID: Activity-f78bdfaf3bf61228ebb68f9b3db79f18
+    ID: '33'
+    Name: Proj - Aguardando tarefa
+ActivityDialogs:
+  ActivityDialog-02fcb8f8006ce62ea02db531447b34e5:
+    ChangeTime: 2019-01-20 19:55:58
+    Config:
+      DescriptionLong: ''
+      DescriptionShort: Cliente
+      FieldOrder:
+      - Article
+      - DynamicField_projKickoffcliente
+      - DynamicField_projKickoffrealizada
+      Fields:
+        Article:
+          Config:
+            ArticleType: note-external
+            TimeUnits: '1'
+          DefaultValue: ''
+          DescriptionLong: ''
+          DescriptionShort: Anexar ata da reunião
+          Display: '2'
+        DynamicField_projKickoffcliente:
+          DefaultValue: ''
+          DescriptionLong: ''
+          DescriptionShort: ''
+          Display: '2'
+        DynamicField_projKickoffrealizada:
+          DefaultValue: ''
+          DescriptionLong: ''
+          DescriptionShort: ''
+          Display: '2'
+      Interface:
+      - AgentInterface
+      Permission: ''
+      RequiredLock: 0
+      SubmitAdviceText: ''
+      SubmitButtonText: ''
+    CreateTime: 2019-01-20 19:55:58
+    EntityID: ActivityDialog-02fcb8f8006ce62ea02db531447b34e5
+    ID: '39'
+    Name: Proj - Registrar Kickoff Cliente
+  ActivityDialog-49255540415110fd36f574e54bb27c5e:
+    ChangeTime: 2019-01-20 21:59:12
+    Config:
+      DescriptionLong: ''
+      DescriptionShort: Cancelamento do Projeto
+      FieldOrder:
+      - Article
+      - State
+      - DynamicField_projCanceladosimnao
+      - DynamicField_projMotivocanelamento
+      Fields:
+        Article:
+          Config:
+            ArticleType: note-external
+            TimeUnits: '1'
+          DefaultValue: ''
+          DescriptionLong: ''
+          DescriptionShort: ''
+          Display: '2'
+        DynamicField_projCanceladosimnao:
+          DefaultValue: ''
+          DescriptionLong: ''
+          DescriptionShort: ''
+          Display: '2'
+        DynamicField_projMotivocanelamento:
+          DefaultValue: ''
+          DescriptionLong: ''
+          DescriptionShort: ''
+          Display: '2'
+        State:
+          DefaultValue: Proj - Projeto cancelado
+          DescriptionLong: ''
+          DescriptionShort: ''
+          Display: '0'
+      Interface:
+      - AgentInterface
+      Permission: ''
+      RequiredLock: '0'
+      SubmitAdviceText: ''
+      SubmitButtonText: ''
+    CreateTime: 2019-01-20 21:59:12
+    EntityID: ActivityDialog-49255540415110fd36f574e54bb27c5e
+    ID: '46'
+    Name: Cancelar projeto
+  ActivityDialog-594cb71dc38a25cdf11174db89ad9510:
+    ChangeTime: 2019-01-20 20:13:33
+    Config:
+      DescriptionLong: ''
+      DescriptionShort: Administrativo ou Financeiro
+      FieldOrder:
+      - Article
+      - DynamicField_projImpedimentoAdm
+      - State
+      Fields:
+        Article:
+          Config:
+            ArticleType: note-external
+            TimeUnits: '1'
+          DefaultValue: ''
+          DescriptionLong: ''
+          DescriptionShort: ''
+          Display: '2'
+        DynamicField_projImpedimentoAdm:
+          DefaultValue: ''
+          DescriptionLong: ''
+          DescriptionShort: ''
+          Display: '2'
+        State:
+          DefaultValue: Proj - Pendencia compliance
+          DescriptionLong: ''
+          DescriptionShort: ''
+          Display: '0'
+      Interface:
+      - AgentInterface
+      Permission: ''
+      RequiredLock: 0
+      SubmitAdviceText: ''
+      SubmitButtonText: ''
+    CreateTime: 2019-01-20 20:13:33
+    EntityID: ActivityDialog-594cb71dc38a25cdf11174db89ad9510
+    ID: '41'
+    Name: Proj - Impedimento Administrativo
+  ActivityDialog-916fee8efd3134130924fc0550a791ec:
+    ChangeTime: 2019-01-20 20:15:01
+    Config:
+      DescriptionLong: ''
+      DescriptionShort: Comercial
+      FieldOrder:
+      - Article
+      - DynamicField_projImpedimentoCom
+      - State
+      Fields:
+        Article:
+          Config:
+            ArticleType: note-external
+            TimeUnits: '1'
+          DefaultValue: ''
+          DescriptionLong: ''
+          DescriptionShort: ''
+          Display: '2'
+        DynamicField_projImpedimentoCom:
+          DefaultValue: ''
+          DescriptionLong: ''
+          DescriptionShort: ''
+          Display: '2'
+        State:
+          DefaultValue: Proj - Pendencia comercial
+          DescriptionLong: ''
+          DescriptionShort: ''
+          Display: '0'
+      Interface:
+      - AgentInterface
+      Permission: ''
+      RequiredLock: 0
+      SubmitAdviceText: ''
+      SubmitButtonText: ''
+    CreateTime: 2019-01-20 20:15:01
+    EntityID: ActivityDialog-916fee8efd3134130924fc0550a791ec
+    ID: '42'
+    Name: Proj - Impedimento Comercial
+  ActivityDialog-a2719869a6a1a80ef73128dca3d4b7ac:
+    ChangeTime: 2019-01-20 20:39:52
+    Config:
+      DescriptionLong: ''
+      DescriptionShort: Inserir cronograma
+      FieldOrder:
+      - DynamicField_projCronogramacriado
+      - Article
+      - State
+      Fields:
+        Article:
+          Config:
+            ArticleType: note-external
+            TimeUnits: '1'
+          DefaultValue: ''
+          DescriptionLong: ''
+          DescriptionShort: ''
+          Display: '2'
+        DynamicField_projCronogramacriado:
+          DefaultValue: ''
+          DescriptionLong: ''
+          DescriptionShort: ''
+          Display: '2'
+        State:
+          DefaultValue: Proj - Projeto em andamento
+          DescriptionLong: ''
+          DescriptionShort: ''
+          Display: '0'
+      Interface:
+      - AgentInterface
+      Permission: ''
+      RequiredLock: 0
+      SubmitAdviceText: ''
+      SubmitButtonText: ''
+    CreateTime: 2019-01-20 20:30:00
+    EntityID: ActivityDialog-a2719869a6a1a80ef73128dca3d4b7ac
+    ID: '43'
+    Name: Proj - Cronograma Criado
+  ActivityDialog-a3570d4ef911e963f5c0fe73944ba660:
+    ChangeTime: 2019-01-20 21:32:26
+    Config:
+      DescriptionLong: ''
+      DescriptionShort: Nova tarefa de projeto
+      FieldOrder:
+      - DynamicField_projCriartarefa
+      - DynamicField_projTitulo
+      - DynamicField_projDescricaoTarefa
+      - Article
+      - State
+      Fields:
+        Article:
+          Config:
+            ArticleType: note-external
+            TimeUnits: '1'
+          DefaultValue: ''
+          DescriptionLong: ''
+          DescriptionShort: ''
+          Display: '2'
+        DynamicField_projCriartarefa:
+          DefaultValue: Sim
+          DescriptionLong: ''
+          DescriptionShort: ''
+          Display: '0'
+        DynamicField_projDescricaoTarefa:
+          DefaultValue: ''
+          DescriptionLong: ''
+          DescriptionShort: ''
+          Display: '2'
+        DynamicField_projTitulo:
+          DefaultValue: ''
+          DescriptionLong: ''
+          DescriptionShort: ''
+          Display: '2'
+        State:
+          DefaultValue: Proj - Executando tarefas
+          DescriptionLong: ''
+          DescriptionShort: ''
+          Display: '0'
+      Interface:
+      - AgentInterface
+      Permission: ''
+      RequiredLock: '0'
+      SubmitAdviceText: ''
+      SubmitButtonText: ''
+    CreateTime: 2019-01-20 20:43:05
+    EntityID: ActivityDialog-a3570d4ef911e963f5c0fe73944ba660
+    ID: '44'
+    Name: Proj - Criar nova tarefa
+  ActivityDialog-ad07adda76ecc7c52ea3f629d0926019:
+    ChangeTime: 2019-01-20 19:49:11
+    Config:
+      DescriptionLong: ''
+      DescriptionShort: Kickoff
+      FieldOrder:
+      - Article
+      - DynamicField_projKickoffplanejado
+      - DynamicField_projKickoffinternoplanejado
+      - State
+      Fields:
+        Article:
+          Config:
+            ArticleType: note-external
+            TimeUnits: '1'
+          DefaultValue: ''
+          DescriptionLong: ''
+          DescriptionShort: ''
+          Display: '2'
+        DynamicField_projKickoffinternoplanejado:
+          DefaultValue: ''
+          DescriptionLong: ''
+          DescriptionShort: ''
+          Display: '2'
+        DynamicField_projKickoffplanejado:
+          DefaultValue: ''
+          DescriptionLong: ''
+          DescriptionShort: ''
+          Display: '2'
+        State:
+          DefaultValue: Proj - Aguardando kickoff
+          DescriptionLong: ''
+          DescriptionShort: ''
+          Display: '0'
+      Interface:
+      - AgentInterface
+      Permission: ''
+      RequiredLock: 0
+      SubmitAdviceText: ''
+      SubmitButtonText: ''
+    CreateTime: 2019-01-20 19:46:21
+    EntityID: ActivityDialog-ad07adda76ecc7c52ea3f629d0926019
+    ID: '38'
+    Name: Agendar KickOff
+  ActivityDialog-d48051ba791da43392bad0f9f1f34f38:
+    ChangeTime: 2019-01-20 19:42:31
+    Config:
+      DescriptionLong: ''
+      DescriptionShort: Novo Projeto
+      FieldOrder:
+      - Type
+      - Queue
+      - CustomerID
+      - Service
+      - SLA
+      - DynamicField_projCliente
+      - DynamicField_projContatodoCliente
+      - DynamicField_projGerente
+      - DynamicField_projInicioProjeto
+      - DynamicField_projEscopo
+      - DynamicField_projProposta
+      - DynamicField_projHorasPrevistas
+      - DynamicField_projFormapagamento
+      - DynamicField_projDescricaopagamento
+      - DynamicField_projPasta
+      - Article
+      - State
+      Fields:
+        Article:
+          Config:
+            ArticleType: note-external
+            TimeUnits: '1'
+          DefaultValue: ''
+          DescriptionLong: ''
+          DescriptionShort: ''
+          Display: '2'
+        CustomerID:
+          DefaultValue: ''
+          DescriptionLong: Colocar como cliente o gerente do Projeto
+          DescriptionShort: Gerente do Projeto
+          Display: '2'
+        DynamicField_projCliente:
+          DefaultValue: ''
+          DescriptionLong: ''
+          DescriptionShort: ''
+          Display: '2'
+        DynamicField_projContatodoCliente:
+          DefaultValue: ''
+          DescriptionLong: ''
+          DescriptionShort: ''
+          Display: '2'
+        DynamicField_projDescricaopagamento:
+          DefaultValue: ''
+          DescriptionLong: ''
+          DescriptionShort: ''
+          Display: '1'
+        DynamicField_projEscopo:
+          DefaultValue: ''
+          DescriptionLong: ''
+          DescriptionShort: ''
+          Display: '2'
+        DynamicField_projFormapagamento:
+          DefaultValue: ''
+          DescriptionLong: ''
+          DescriptionShort: ''
+          Display: '2'
+        DynamicField_projGerente:
+          DefaultValue: ''
+          DescriptionLong: ''
+          DescriptionShort: ''
+          Display: '2'
+        DynamicField_projHorasPrevistas:
+          DefaultValue: ''
+          DescriptionLong: ''
+          DescriptionShort: ''
+          Display: '2'
+        DynamicField_projInicioProjeto:
+          DefaultValue: ''
+          DescriptionLong: ''
+          DescriptionShort: ''
+          Display: '2'
+        DynamicField_projPasta:
+          DefaultValue: ''
+          DescriptionLong: ''
+          DescriptionShort: ''
+          Display: '2'
+        DynamicField_projProposta:
+          DefaultValue: ''
+          DescriptionLong: ''
+          DescriptionShort: ''
+          Display: '1'
+        Queue:
+          DefaultValue: Gestão de Projetos
+          DescriptionLong: ''
+          DescriptionShort: ''
+          Display: '0'
+        SLA:
+          DefaultValue: ''
+          DescriptionLong: ''
+          DescriptionShort: ''
+          Display: '2'
+        Service:
+          DefaultValue: ''
+          DescriptionLong: ''
+          DescriptionShort: ''
+          Display: '2'
+        State:
+          DefaultValue: Proj - Agendar kickoff
+          DescriptionLong: ''
+          DescriptionShort: ''
+          Display: '0'
+        Type:
+          DefaultValue: Projetos
+          DescriptionLong: ''
+          DescriptionShort: ''
+          Display: '0'
+      Interface:
+      - AgentInterface
+      Permission: rw
+      RequiredLock: 0
+      SubmitAdviceText: ''
+      SubmitButtonText: Iniciar projeto
+    CreateTime: 2019-01-20 18:05:12
+    EntityID: ActivityDialog-d48051ba791da43392bad0f9f1f34f38
+    ID: '37'
+    Name: Novo projeto
+  ActivityDialog-ecbe47e26fa7caa690c2ca09356b1f4c:
+    ChangeTime: 2019-01-20 19:59:53
+    Config:
+      DescriptionLong: ''
+      DescriptionShort: Interno
+      FieldOrder:
+      - Article
+      - DynamicField_projKickoffinternorealizado
+      - DynamicField_projKickoffinterno
+      Fields:
+        Article:
+          Config:
+            ArticleType: note-external
+            TimeUnits: '1'
+          DefaultValue: ''
+          DescriptionLong: ''
+          DescriptionShort: ''
+          Display: '2'
+        DynamicField_projKickoffinterno:
+          DefaultValue: ''
+          DescriptionLong: ''
+          DescriptionShort: ''
+          Display: '2'
+        DynamicField_projKickoffinternorealizado:
+          DefaultValue: ''
+          DescriptionLong: ''
+          DescriptionShort: ''
+          Display: '2'
+      Interface:
+      - AgentInterface
+      Permission: ''
+      RequiredLock: 0
+      SubmitAdviceText: ''
+      SubmitButtonText: ''
+    CreateTime: 2019-01-20 19:59:53
+    EntityID: ActivityDialog-ecbe47e26fa7caa690c2ca09356b1f4c
+    ID: '40'
+    Name: Proj - Registrar Kickoff Interno
+  ActivityDialog-f0578f1f8d860d0106cf3e7336ee837b:
+    ChangeTime: 2019-01-20 21:57:51
+    Config:
+      DescriptionLong: ''
+      DescriptionShort: Conduzir ao encerramento do Projeto
+      FieldOrder:
+      - DynamicField_projDataEncerramento
+      - Article
+      - State
+      Fields:
+        Article:
+          Config:
+            ArticleType: note-external
+            TimeUnits: '1'
+          DefaultValue: ''
+          DescriptionLong: ''
+          DescriptionShort: ''
+          Display: '2'
+        DynamicField_projDataEncerramento:
+          DefaultValue: ''
+          DescriptionLong: ''
+          DescriptionShort: ''
+          Display: '2'
+        State:
+          DefaultValue: Proj - Projeto encerrado
+          DescriptionLong: ''
+          DescriptionShort: ''
+          Display: '0'
+      Interface:
+      - AgentInterface
+      Permission: ''
+      RequiredLock: 0
+      SubmitAdviceText: ''
+      SubmitButtonText: ''
+    CreateTime: 2019-01-20 21:57:51
+    EntityID: ActivityDialog-f0578f1f8d860d0106cf3e7336ee837b
+    ID: '45'
+    Name: Proj - Encerrar Projeto
+Process:
+  Activities:
+  - Activity-0c9b99417a16409a114f40ccd39cfb04
+  - Activity-2e3104959e38f6cbe8bb7352bcabd6f6
+  - Activity-302e3063dd2aa94e821ed16060fcf48a
+  - Activity-4e20c0fce619989894fd4323f7448844
+  - Activity-5bbeec1bd78f08736b28db507f507136
+  - Activity-b8a8c9e65106ba43742fe8154d5d3c2b
+  - Activity-ceff77e232cddbe6cc514948ca9acb31
+  - Activity-d3c13b1968ace162683f79ca78afb4d5
+  - Activity-e619638deb537ea1488bc7dd4951429b
+  - Activity-f78bdfaf3bf61228ebb68f9b3db79f18
+  ChangeTime: 2019-08-04 18:35:35
+  Config:
+    Description: Processo para controlar o fluxo de projetos e controle de horas
+    Path:
+      Activity-0c9b99417a16409a114f40ccd39cfb04:
+        Transition-b9c0d6da222de13973f2a5876900024a:
+          ActivityEntityID: Activity-ceff77e232cddbe6cc514948ca9acb31
+          TransitionAction:
+          - TransitionAction-8dda717b340681eca123afbcd980905a
+      Activity-2e3104959e38f6cbe8bb7352bcabd6f6:
+        Transition-05534f962773c4625e068cf689ea7b45:
+          ActivityEntityID: Activity-0c9b99417a16409a114f40ccd39cfb04
+          TransitionAction:
+          - TransitionAction-e59fb8afdd2de07592bc52b0a16e4dcc
+      Activity-302e3063dd2aa94e821ed16060fcf48a:
+        Transition-5e366a5dc71cd8bd3634ededf3593d34:
+          ActivityEntityID: Activity-4e20c0fce619989894fd4323f7448844
+          TransitionAction: []
+      Activity-4e20c0fce619989894fd4323f7448844:
+        Transition-8a12df22b0e90647affc1cd02a75a60e:
+          ActivityEntityID: Activity-b8a8c9e65106ba43742fe8154d5d3c2b
+          TransitionAction: []
+      Activity-5bbeec1bd78f08736b28db507f507136:
+        Transition-399e3c2f8d23432f8b8da8ca6652141d:
+          ActivityEntityID: Activity-d3c13b1968ace162683f79ca78afb4d5
+          TransitionAction:
+          - TransitionAction-f5ee0ea79f86ba61eb7e5460b0a52c96
+          - TransitionAction-7f0e80adca6439d03f4270c2ef89c2b3
+          - TransitionAction-350e2704a9bd8a1458a1f1703bd4227f
+        Transition-7cefb2de0ffc88c1eb1c765c53330284:
+          ActivityEntityID: Activity-e619638deb537ea1488bc7dd4951429b
+          TransitionAction:
+          - TransitionAction-66d439fe7215fe9273010803c8100ffc
+        Transition-c6e37b4111fbc7d7403f985b47818a58:
+          ActivityEntityID: Activity-e619638deb537ea1488bc7dd4951429b
+          TransitionAction:
+          - TransitionAction-66d439fe7215fe9273010803c8100ffc
+      Activity-b8a8c9e65106ba43742fe8154d5d3c2b:
+        Transition-5de3ac63d2d04c903f3ed976a6188cad:
+          ActivityEntityID: Activity-2e3104959e38f6cbe8bb7352bcabd6f6
+          TransitionAction:
+          - TransitionAction-3a0e21221a4270e48cc06a88348fa2e8
+      Activity-ceff77e232cddbe6cc514948ca9acb31:
+        Transition-7cefb2de0ffc88c1eb1c765c53330284:
+          ActivityEntityID: Activity-e619638deb537ea1488bc7dd4951429b
+          TransitionAction:
+          - TransitionAction-66d439fe7215fe9273010803c8100ffc
+        Transition-b569d70b1fb768b06a817c69478e76f9:
+          ActivityEntityID: Activity-d3c13b1968ace162683f79ca78afb4d5
+      Activity-d3c13b1968ace162683f79ca78afb4d5:
+        Transition-399e3c2f8d23432f8b8da8ca6652141d:
+          ActivityEntityID: Activity-f78bdfaf3bf61228ebb68f9b3db79f18
+          TransitionAction:
+          - TransitionAction-f5ee0ea79f86ba61eb7e5460b0a52c96
+          - TransitionAction-7f0e80adca6439d03f4270c2ef89c2b3
+          - TransitionAction-350e2704a9bd8a1458a1f1703bd4227f
+        Transition-440619c27d0592184ef1fbc1f45e4102:
+          ActivityEntityID: Activity-5bbeec1bd78f08736b28db507f507136
+          TransitionAction:
+          - TransitionAction-f5ee0ea79f86ba61eb7e5460b0a52c96
+          - TransitionAction-68a73d135f0201d38a86047d0d27b508
+          - TransitionAction-350e2704a9bd8a1458a1f1703bd4227f
+        Transition-7cefb2de0ffc88c1eb1c765c53330284:
+          ActivityEntityID: Activity-e619638deb537ea1488bc7dd4951429b
+          TransitionAction:
+          - TransitionAction-66d439fe7215fe9273010803c8100ffc
+      Activity-e619638deb537ea1488bc7dd4951429b: {}
+      Activity-f78bdfaf3bf61228ebb68f9b3db79f18:
+        Transition-399e3c2f8d23432f8b8da8ca6652141d:
+          ActivityEntityID: Activity-d3c13b1968ace162683f79ca78afb4d5
+          TransitionAction:
+          - TransitionAction-f5ee0ea79f86ba61eb7e5460b0a52c96
+          - TransitionAction-7f0e80adca6439d03f4270c2ef89c2b3
+          - TransitionAction-350e2704a9bd8a1458a1f1703bd4227f
+        Transition-440619c27d0592184ef1fbc1f45e4102:
+          ActivityEntityID: Activity-5bbeec1bd78f08736b28db507f507136
+          TransitionAction:
+          - TransitionAction-68a73d135f0201d38a86047d0d27b508
+          - TransitionAction-f5ee0ea79f86ba61eb7e5460b0a52c96
+          - TransitionAction-350e2704a9bd8a1458a1f1703bd4227f
+        Transition-7cefb2de0ffc88c1eb1c765c53330284:
+          ActivityEntityID: Activity-e619638deb537ea1488bc7dd4951429b
+          TransitionAction:
+          - TransitionAction-66d439fe7215fe9273010803c8100ffc
+    StartActivity: Activity-302e3063dd2aa94e821ed16060fcf48a
+    StartActivityDialog: ActivityDialog-d48051ba791da43392bad0f9f1f34f38
+  CreateTime: 2019-01-20 18:02:16
+  EntityID: Process-4b831765134b5355e7cd39a3c5f43916
+  ID: '10'
+  Layout:
+    Activity-0c9b99417a16409a114f40ccd39cfb04:
+      left: '744'
+      top: '380'
+    Activity-2e3104959e38f6cbe8bb7352bcabd6f6:
+      left: '506'
+      top: '376'
+    Activity-302e3063dd2aa94e821ed16060fcf48a:
+      left: '202'
+      top: '116'
+    Activity-4e20c0fce619989894fd4323f7448844:
+      left: '206'
+      top: '332'
+    Activity-5bbeec1bd78f08736b28db507f507136:
+      left: '1394'
+      top: '65'
+    Activity-b8a8c9e65106ba43742fe8154d5d3c2b:
+      left: '512'
+      top: '190'
+    Activity-ceff77e232cddbe6cc514948ca9acb31:
+      left: '708'
+      top: '163'
+    Activity-d3c13b1968ace162683f79ca78afb4d5:
+      left: '735'
+      top: '12'
+    Activity-e619638deb537ea1488bc7dd4951429b:
+      left: '1394'
+      top: '408'
+    Activity-f78bdfaf3bf61228ebb68f9b3db79f18:
+      left: '968'
+      top: '266'
+  Name: Projeto
+  State: Active
+  StateEntityID: S1
+  TransitionActions:
+  - TransitionAction-8dda717b340681eca123afbcd980905a
+  - TransitionAction-e59fb8afdd2de07592bc52b0a16e4dcc
+  - TransitionAction-350e2704a9bd8a1458a1f1703bd4227f
+  - TransitionAction-7f0e80adca6439d03f4270c2ef89c2b3
+  - TransitionAction-f5ee0ea79f86ba61eb7e5460b0a52c96
+  - TransitionAction-66d439fe7215fe9273010803c8100ffc
+  - TransitionAction-66d439fe7215fe9273010803c8100ffc
+  - TransitionAction-3a0e21221a4270e48cc06a88348fa2e8
+  - TransitionAction-66d439fe7215fe9273010803c8100ffc
+  - TransitionAction-350e2704a9bd8a1458a1f1703bd4227f
+  - TransitionAction-7f0e80adca6439d03f4270c2ef89c2b3
+  - TransitionAction-f5ee0ea79f86ba61eb7e5460b0a52c96
+  - TransitionAction-350e2704a9bd8a1458a1f1703bd4227f
+  - TransitionAction-68a73d135f0201d38a86047d0d27b508
+  - TransitionAction-f5ee0ea79f86ba61eb7e5460b0a52c96
+  - TransitionAction-66d439fe7215fe9273010803c8100ffc
+  - TransitionAction-350e2704a9bd8a1458a1f1703bd4227f
+  - TransitionAction-7f0e80adca6439d03f4270c2ef89c2b3
+  - TransitionAction-f5ee0ea79f86ba61eb7e5460b0a52c96
+  - TransitionAction-350e2704a9bd8a1458a1f1703bd4227f
+  - TransitionAction-68a73d135f0201d38a86047d0d27b508
+  - TransitionAction-f5ee0ea79f86ba61eb7e5460b0a52c96
+  - TransitionAction-66d439fe7215fe9273010803c8100ffc
+  Transitions:
+  - Transition-b9c0d6da222de13973f2a5876900024a
+  - Transition-05534f962773c4625e068cf689ea7b45
+  - Transition-5e366a5dc71cd8bd3634ededf3593d34
+  - Transition-8a12df22b0e90647affc1cd02a75a60e
+  - Transition-399e3c2f8d23432f8b8da8ca6652141d
+  - Transition-7cefb2de0ffc88c1eb1c765c53330284
+  - Transition-c6e37b4111fbc7d7403f985b47818a58
+  - Transition-5de3ac63d2d04c903f3ed976a6188cad
+  - Transition-7cefb2de0ffc88c1eb1c765c53330284
+  - Transition-b569d70b1fb768b06a817c69478e76f9
+  - Transition-399e3c2f8d23432f8b8da8ca6652141d
+  - Transition-440619c27d0592184ef1fbc1f45e4102
+  - Transition-7cefb2de0ffc88c1eb1c765c53330284
+  - Transition-399e3c2f8d23432f8b8da8ca6652141d
+  - Transition-440619c27d0592184ef1fbc1f45e4102
+  - Transition-7cefb2de0ffc88c1eb1c765c53330284
+TransitionActions:
+  TransitionAction-350e2704a9bd8a1458a1f1703bd4227f:
+    ChangeTime: 2019-01-20 21:47:53
+    Config:
+      Config:
+        projDescricaoTarefa: ''
+        projTitulo: ''
+      Module: Kernel::System::ProcessManagement::TransitionAction::DynamicFieldSet
+    CreateTime: 2019-01-20 21:42:35
+    EntityID: TransitionAction-350e2704a9bd8a1458a1f1703bd4227f
+    ID: '38'
+    Name: Limpar - projTitulo
+  TransitionAction-3a0e21221a4270e48cc06a88348fa2e8:
+    ChangeTime: 2019-01-20 20:21:58
+    Config:
+      Config:
+        State: Proj - Avaliando compliance
+      Module: Kernel::System::ProcessManagement::TransitionAction::TicketStateSet
+    CreateTime: 2019-01-20 20:21:58
+    EntityID: TransitionAction-3a0e21221a4270e48cc06a88348fa2e8
+    ID: '33'
+    Name: Estado - Proj - Avaliando compliance
+  TransitionAction-66d439fe7215fe9273010803c8100ffc:
+    ChangeTime: 2019-01-20 22:03:23
+    Config:
+      Config:
+        Lock: unlock
+      Module: Kernel::System::ProcessManagement::TransitionAction::TicketLockSet
+    CreateTime: 2019-01-20 22:03:23
+    EntityID: TransitionAction-66d439fe7215fe9273010803c8100ffc
+    ID: '39'
+    Name: Desbloquear - Ticket
+  TransitionAction-68a73d135f0201d38a86047d0d27b508:
+    ChangeTime: 2019-01-20 21:03:26
+    Config:
+      Config:
+        State: Proj - Sem tarefas em execução
+      Module: Kernel::System::ProcessManagement::TransitionAction::TicketStateSet
+    CreateTime: 2019-01-20 21:03:26
+    EntityID: TransitionAction-68a73d135f0201d38a86047d0d27b508
+    ID: '37'
+    Name: Estado - Proj - Sem tarefas em execução
+  TransitionAction-7f0e80adca6439d03f4270c2ef89c2b3:
+    ChangeTime: 2019-01-20 21:45:01
+    Config:
+      Config:
+        ArticleType: note-external
+        Body: <OTRS_TICKET_DynamicField_projDescricaoTarefa> <br /> <br />
+        ContentType: text/html; charset=UTF-8
+        CustomerID: CustomerID
+        CustomerUser: <OTRS_Ticket_CustomerUserID>
+        DynamicField_projCliente: <OTRS_TICKET_DynamicField_projCliente>
+        DynamicField_projContatodoCliente: <OTRS_TICKET_DynamicField_projContatodoCliente>
+        DynamicField_projPasta: <OTRS_TICKET_DynamicField_projPasta>
+        HistoryComment: Nova tarefa de projetos
+        HistoryType: AddNote
+        LinkAs: Child
+        Lock: unlock
+        OwnerID: '1'
+        Priority: 3 normal
+        Queue: Gestão de Projetos::Tarefas
+        SLA: <OTRS_TICKET_SLA>
+        SenderType: agent
+        Service: <OTRS_TICKET_Service>
+        State: new
+        Subject: Nova tarefa Projeto -  <OTRS_TICKET_DynamicField_projTitulo>
+        Title: Tarefa - <OTRS_TICKET_DynamicField_projTitulo>
+        Type: Projetos::Tarefa
+      Module: Kernel::System::ProcessManagement::TransitionAction::TicketCreate
+    CreateTime: 2019-01-20 18:52:05
+    EntityID: TransitionAction-7f0e80adca6439d03f4270c2ef89c2b3
+    ID: '32'
+    Name: Proj - Nova tarefa de projeto
+  TransitionAction-8dda717b340681eca123afbcd980905a:
+    ChangeTime: 2019-01-20 20:31:45
+    Config:
+      Config:
+        State: Proj - Aguardando cronograma
+      Module: Kernel::System::ProcessManagement::TransitionAction::TicketStateSet
+    CreateTime: 2019-01-20 20:31:45
+    EntityID: TransitionAction-8dda717b340681eca123afbcd980905a
+    ID: '35'
+    Name: Estado - Proj - Aguardando cronograma
+  TransitionAction-e59fb8afdd2de07592bc52b0a16e4dcc:
+    ChangeTime: 2019-01-20 20:22:52
+    Config:
+      Config:
+        State: Proj - Avaliando comercial
+      Module: Kernel::System::ProcessManagement::TransitionAction::TicketStateSet
+    CreateTime: 2019-01-20 20:22:52
+    EntityID: TransitionAction-e59fb8afdd2de07592bc52b0a16e4dcc
+    ID: '34'
+    Name: Estado - Proj - Avaliando comercial
+  TransitionAction-f5ee0ea79f86ba61eb7e5460b0a52c96:
+    ChangeTime: 2019-01-20 20:53:58
+    Config:
+      Config:
+        projCriartarefa: Não
+      Module: Kernel::System::ProcessManagement::TransitionAction::DynamicFieldSet
+    CreateTime: 2019-01-20 20:53:58
+    EntityID: TransitionAction-f5ee0ea79f86ba61eb7e5460b0a52c96
+    ID: '36'
+    Name: Proj - Criar Tarefa Não
+Transitions:
+  Transition-05534f962773c4625e068cf689ea7b45:
+    ChangeTime: 2019-01-20 20:20:40
+    Config:
+      Condition:
+        '1':
+          Fields:
+            DynamicField_projImpedimentoAdm:
+              Match: Não
+              Type: String
+          Type: and
+      ConditionLinking: and
+    CreateTime: 2019-01-20 20:20:40
+    EntityID: Transition-05534f962773c4625e068cf689ea7b45
+    ID: '27'
+    Name: Proj - Avaliar Impedimento Comercial
+  Transition-399e3c2f8d23432f8b8da8ca6652141d:
+    ChangeTime: 2019-01-20 20:52:42
+    Config:
+      Condition:
+        '1':
+          Fields:
+            DynamicField_projCriartarefa:
+              Match: Sim
+              Type: String
+          Type: and
+      ConditionLinking: and
+    CreateTime: 2019-01-20 20:52:42
+    EntityID: Transition-399e3c2f8d23432f8b8da8ca6652141d
+    ID: '30'
+    Name: Proj - Nova tarefa
+  Transition-440619c27d0592184ef1fbc1f45e4102:
+    ChangeTime: 2019-01-20 21:01:34
+    Config:
+      Condition:
+        '1':
+          Fields:
+            Tarefas encerradas:
+              Match: Kernel::System::ProcessManagement::TransitionValidation::CheckIfAllChildrenAreClosed
+              Type: Module
+          Type: and
+      ConditionLinking: and
+    CreateTime: 2019-01-20 21:01:34
+    EntityID: Transition-440619c27d0592184ef1fbc1f45e4102
+    ID: '31'
+    Name: Proj - Tarefas Encerradas
+  Transition-5de3ac63d2d04c903f3ed976a6188cad:
+    ChangeTime: 2019-01-20 20:05:06
+    Config:
+      Condition:
+        '1':
+          Fields:
+            DynamicField_projKickoffcliente:
+              Match: Sim
+              Type: String
+            DynamicField_projKickoffinterno:
+              Match: Sim
+              Type: String
+          Type: and
+      ConditionLinking: and
+    CreateTime: 2019-01-20 20:04:15
+    EntityID: Transition-5de3ac63d2d04c903f3ed976a6188cad
+    ID: '26'
+    Name: Proj - Kickoff realizado
+  Transition-5e366a5dc71cd8bd3634ededf3593d34:
+    ChangeTime: 2019-01-20 19:42:54
+    Config:
+      Condition:
+        '1':
+          Fields:
+            State:
+              Match: Proj - Agendar kickoff
+              Type: String
+          Type: and
+      ConditionLinking: and
+    CreateTime: 2019-01-20 19:30:33
+    EntityID: Transition-5e366a5dc71cd8bd3634ededf3593d34
+    ID: '24'
+    Name: Proj - Agendar Kickoff
+  Transition-7cefb2de0ffc88c1eb1c765c53330284:
+    ChangeTime: 2019-01-20 22:04:29
+    Config:
+      Condition:
+        '1':
+          Fields:
+            DynamicField_projCanceladosimnao:
+              Match: Sim
+              Type: String
+          Type: and
+      ConditionLinking: and
+    CreateTime: 2019-01-20 22:04:29
+    EntityID: Transition-7cefb2de0ffc88c1eb1c765c53330284
+    ID: '33'
+    Name: Proj - Cancelar Projeto
+  Transition-8a12df22b0e90647affc1cd02a75a60e:
+    ChangeTime: 2019-01-20 19:50:00
+    Config:
+      Condition:
+        '1':
+          Fields:
+            State:
+              Match: Proj - Aguardando kickoff
+              Type: String
+          Type: and
+      ConditionLinking: and
+    CreateTime: 2019-01-20 19:50:00
+    EntityID: Transition-8a12df22b0e90647affc1cd02a75a60e
+    ID: '25'
+    Name: Proj -Aguardando Kickoff
+  Transition-b569d70b1fb768b06a817c69478e76f9:
+    ChangeTime: 2019-01-20 20:38:15
+    Config:
+      Condition:
+        '1':
+          Fields:
+            DynamicField_projCronogramacriado:
+              Match: Sim
+              Type: String
+          Type: and
+        '2':
+          Fields:
+            DynamicField_projCronogramacriado:
+              Match: Não
+              Type: String
+          Type: and
+      ConditionLinking: or
+    CreateTime: 2019-01-20 20:38:15
+    EntityID: Transition-b569d70b1fb768b06a817c69478e76f9
+    ID: '29'
+    Name: Proj - Execução do Projeto
+  Transition-b9c0d6da222de13973f2a5876900024a:
+    ChangeTime: 2019-01-20 20:33:07
+    Config:
+      Condition:
+        '1':
+          Fields:
+            DynamicField_projImpedimentoCom:
+              Match: Não
+              Type: String
+          Type: and
+      ConditionLinking: and
+    CreateTime: 2019-01-20 20:33:07
+    EntityID: Transition-b9c0d6da222de13973f2a5876900024a
+    ID: '28'
+    Name: Proj - Criar Cronograma
+  Transition-c6e37b4111fbc7d7403f985b47818a58:
+    ChangeTime: 2019-01-20 22:02:16
+    Config:
+      Condition:
+        '1':
+          Fields:
+            State:
+              Match: Proj - Projeto encerrado
+              Type: String
+          Type: and
+      ConditionLinking: and
+    CreateTime: 2019-01-20 22:02:16
+    EntityID: Transition-c6e37b4111fbc7d7403f985b47818a58
+    ID: '32'
+    Name: Proj - Encerrado

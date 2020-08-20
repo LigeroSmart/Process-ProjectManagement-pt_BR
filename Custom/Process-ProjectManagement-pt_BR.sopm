@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<otrs_package version="1.1">
+    <Name>Process-ProjectManagement-pt_BR</Name>
+    <Version>6.0.0</Version>
+    <Vendor>LigeroSmart</Vendor>
+    <URL>http://www.ligerosmart.com/</URL>
+    <License>GNU GENERAL PUBLIC LICENSE Version 2, June 1991</License>
+    <Description Lang="en">Project Management sample process with dynamic fields and other objects in Portuguese</Description>
+    <Framework>6.0.x</Framework>
+    <Filelist>
+      <File Location="Custom/Process-ProjectManagement-pt_BR.sopm" Permission="644"></File>
+      <File Location="var/processes/examples/Project_Management.yml" Permission="644"></File>
+      <File Location="var/processes/examples/Project_Management_post.pm" Permission="644"></File>
+      <File Location="var/processes/examples/Project_Management_pre.pm" Permission="644"></File>
+    </Filelist>
+</otrs_package>
