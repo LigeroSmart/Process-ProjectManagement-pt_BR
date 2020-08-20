@@ -4,6 +4,8 @@ package var::processes::examples::Project_Management_pre;
 use strict;
 use warnings;
 
+use utf8;
+
 use base qw(var::processes::examples::Base);
 
 our @ObjectDependencies = ();
@@ -39,7 +41,8 @@ sub Run {
 	}
 
 	my @Queues = (
-		"Gestão de Projetos"
+		"Gestão de Projetos",
+		"Gestão de Projetos::Tarefas"
 	);
 	for (@Queues){
 		$Kernel::OM->Get('Kernel::System::Queue')->QueueAdd(

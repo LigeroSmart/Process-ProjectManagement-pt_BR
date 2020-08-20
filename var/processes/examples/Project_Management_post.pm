@@ -4,6 +4,8 @@ package var::processes::examples::Project_Management_post;
 use strict;
 use warnings;
 
+use utf8;
+
 our @ObjectDependencies = (
     "Kernel::Config",
     "Kernel::System::SysConfig",
